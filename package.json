@@ -5,7 +5,7 @@
     "icon": "kitchen_sink_vue.png",
     "author": "Daniel Sieradski <daniel@self.agency>",
     "publisher": "selfagency",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/selfagency/vsc-coredx-vue.git"
@@ -18,15 +18,19 @@
     ],
     "extensionPack": [
         "antfu.vite",
+        "bourhaouta.tailwindshades",
         "bradlc.vscode-tailwindcss",
         "dariofuzinato.vue-peek",
         "Denifer.vuebindthis",
         "faisalhakim47.vue-inline-template",
         "heybourn.headwind",
         "maantje.vue-discovery",
+        "macieklad.tailwind-sass-syntax",
+        "mcbai.vscode-vuex-peek",
         "mishannn.vuex-suggest",
         "octref.vetur",
         "sdras.vue-vscode-snippets",
+        "snovakovic.vtpw",
         "TedisAgolli.hex-to-tailwind",
         "znck.preview",
         "znck.vue-language-features",
