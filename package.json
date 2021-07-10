@@ -1,0 +1,35 @@
+{
+    "name": "coredx-vue",
+    "displayName": "CoreDX-Vue",
+    "description": "Extends CoreDX for development with Vue.js and Nuxt.js",
+    "icon": "kitchen_sink_vue.png",
+    "author": "Daniel Sieradski <daniel@self.agency>",
+    "publisher": "selfagency",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/selfagency/vsc-coredx-vue.git"
+    },
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "antfu.vite",
+        "bradlc.vscode-tailwindcss",
+        "dariofuzinato.vue-peek",
+        "Denifer.vuebindthis",
+        "faisalhakim47.vue-inline-template",
+        "heybourn.headwind",
+        "maantje.vue-discovery",
+        "mishannn.vuex-suggest",
+        "octref.vetur",
+        "sdras.vue-vscode-snippets",
+        "TedisAgolli.hex-to-tailwind",
+        "znck.preview",
+        "znck.vue-language-features",
+        "znck.vue"
+    ]
+}
